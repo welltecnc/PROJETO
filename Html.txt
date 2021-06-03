@@ -9,9 +9,16 @@
 		    Titulo:Site Git"/>
 </head>
 <body>
-
-
-
+	<h1>VENHA CONHECER MINHA PÁGINA DE JOGOS</H1>
+	<h2>Jogos de todos os tipos</h2>
+	
+	<table>
+	     <tr>
+		 <td>NOME</td>
+		 <td>DESCRIÇÃO</td>
+		 <td>QUANTIDADE</td>
+	     </tr>
+	</table>	
 
 </body>
 
