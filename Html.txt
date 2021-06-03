@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>MEU SITE</title>
+	<meta charset="UTF-8"/>
+	<meta name="description= 
+		    Autor:Wellington
+		    Data:02/06/2021
+		    Titulo:Site Git"/>
+</head>
+<body>
+
+
+
+
+</body>
+
+</html>
