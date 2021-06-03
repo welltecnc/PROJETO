@@ -18,7 +18,13 @@
 		 <td>DESCRIÇÃO</td>
 		 <td>QUANTIDADE</td>
 	     </tr>
-	</table>	
+	</table>
+
+<ul>
+ <li>teste1</li>
+ <li>teste2</li>
+ <li>teste3</li>
+</ul>
 
 </body>
 
